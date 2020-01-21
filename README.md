@@ -18,13 +18,13 @@ The procedure employed in the tool to convert the given units to the desired uni
 
 As mentioned in Step 1, all units are converted to their based units. The base units used in the conversion tool for the SI and US unit systems are shown in Tables 1 and 2, respectively.
 
-*Table 1. SI base units*
+>*Table 1. SI base units*
 
 | length  | mass | time | temperature |
 | ------------- | ------------- | ------------- | ------------- |
 |m|kg|s|K|
 
-*Table 2. US base units*
+>*Table 2. US base units*
 
 | length  | mass | time | temperature |
 | ------------- | ------------- | ------------- | ------------- |
