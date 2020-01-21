@@ -2,7 +2,7 @@
 *Lightweight tool for converting units*
 
 ## Summary
-This repository provides the source code for a GUI-based lightweight universal unit conversion software. This engineering unit conversion tool allows the user to type the given and desired units as well as the value to be converted. Typing the units allows greater flexibility and ease-of-use compared with picking the units from a drop down menu. This is especially true for specialized units such as MPa\*m^(1/2) as seen converted to ksi\*in^(1/2) in Figure 1. The tool also allows the user to convert multiple values at once which can speed up conversion of large datasets. 
+This repository provides the source code for a GUI-based lightweight universal unit conversion software. The engineering unit conversion tool allows the user to type the given and desired units as well as the value to be converted. Typing the units allows greater flexibility and ease-of-use compared with picking the units from a drop down menu. This is especially true for specialized units such as MPa\*m^(1/2) as seen converted to ksi\*in^(1/2) in Figure 1. The tool also allows the user to convert multiple values at once which can speed up conversion of large datasets. 
 
 ![](EngineeringUnitConverterGUI.png)
 >*Figure 1. Engineering unit converter GUI*
